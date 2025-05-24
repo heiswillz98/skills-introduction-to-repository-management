@@ -24,7 +24,6 @@ new features, this guide will help you get started. 🎉
 - Follow PEP 8 for Python code (backend).
 - Use clear, descriptive variable names (student_name, start_time, etc.)
 - Add comments to describe blocks of logic.
-
  ## Need help or have ideas?
 
 - Check the open issues first.
